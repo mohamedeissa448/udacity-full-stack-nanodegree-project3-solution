@@ -3,8 +3,8 @@
 * The IP address : 52.59.31.195
 * ssh port	 : 2200
 * website url	 : 52.59.31.195:80
-* summary of software installed and configuration changes made:
-==============================================================
+* ### summary of software installed and configuration changes made:
+
 ..* updated all the packages in the server machine
 ..* changed ssh port from `22` to `2200`
 ..* configured the firewall to allow ports `80 , 123 , 2200`
