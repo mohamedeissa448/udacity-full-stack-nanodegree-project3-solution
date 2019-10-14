@@ -18,4 +18,4 @@
   - installed `git` and cloned the application from github repository
   - installed packges: `python-pip httplib2 requests --upgrade oauth2client sqlalchemy flask libpq-dev psycopg2` for deploying  flask application on ubuntu
   - configured virtual host
-  - added app.wsgi
+  - added `app.wsgi`
